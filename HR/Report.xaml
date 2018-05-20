@@ -1,0 +1,30 @@
+﻿<dx:DXWindow
+	xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	
+	x:Class="Asign2.Report"
+	Title="Report" Height="372.834" Width="621" WindowStartupLocation="CenterScreen" Icon="Project8.ico" WindowStyle="SingleBorderWindow" ResizeMode="NoResize">
+    <Grid>
+        <Button Content="Copy Email" Margin="256,258,0,0" RenderTransformOrigin="4.917,0.607" Click="Button_Click" Height="42" VerticalAlignment="Top" HorizontalAlignment="Left" Width="94" />
+        <dx:DXTabControl x:Name="tab1" Height="235" VerticalAlignment="Top"  TabContentCacheMode="CacheAllTabs">
+            <dx:DXTabItem Header="Star Performers" Height="30" >
+                <Grid Background="Transparent" Margin="20">
+                    <DataGrid x:Name="datagrid2" ColumnWidth="*" Foreground="#FF373A3D" IsReadOnly="True" HorizontalGridLinesBrush="#FF373A3D" VerticalGridLinesBrush="#FF373A3D" SelectionMode="Single"/>
+                </Grid >
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="Meeting Minimum">
+                <DataGrid x:Name="datagrid3" ColumnWidth="*" Margin="20" HorizontalGridLinesBrush="#FF373A3D" IsManipulationEnabled="True" VerticalGridLinesBrush="#FF373A3D" IsReadOnly="True" SelectionMode="Single"/>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="Below Expectation">
+                <Grid Background="Transparent" Margin="20">
+                    <DataGrid x:Name="datagrid4" ColumnWidth="*" Foreground="#FF373A3D" IsReadOnly="True" VerticalGridLinesBrush="#FF373A3D" HorizontalGridLinesBrush="#FF373A3D" SelectionMode="Single"/>
+                </Grid>
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="Poor">
+                <Grid Background="Transparent" Margin="20,20,20,20">
+                    <DataGrid x:Name="datagrid5" ColumnWidth="*" Margin="0,0,0,0" Foreground="#FF373A3D" IsReadOnly="True" HorizontalGridLinesBrush="#FF373A3D" VerticalGridLinesBrush="#FF373A3D" SelectionMode="Single"/>
+                </Grid>
+            </dx:DXTabItem>
+        </dx:DXTabControl>
+    </Grid>
+</dx:DXWindow>

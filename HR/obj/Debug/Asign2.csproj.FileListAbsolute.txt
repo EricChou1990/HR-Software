@@ -1,0 +1,316 @@
+c:\users\mark\documents\visual studio 2013\Projects\Asign2\Asign2\bin\Debug\Asign2.exe.config
+c:\users\mark\documents\visual studio 2013\Projects\Asign2\Asign2\bin\Debug\Asign2.exe
+c:\users\mark\documents\visual studio 2013\Projects\Asign2\Asign2\bin\Debug\Asign2.pdb
+c:\users\mark\documents\visual studio 2013\Projects\Asign2\Asign2\obj\Debug\Asign2.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2013\Projects\Asign2\Asign2\obj\Debug\MainWindow.baml
+c:\users\mark\documents\visual studio 2013\Projects\Asign2\Asign2\obj\Debug\MainWindow.g.cs
+c:\users\mark\documents\visual studio 2013\Projects\Asign2\Asign2\obj\Debug\App.g.cs
+c:\users\mark\documents\visual studio 2013\Projects\Asign2\Asign2\obj\Debug\Asign2_MarkupCompile.cache
+c:\users\mark\documents\visual studio 2013\Projects\Asign2\Asign2\obj\Debug\Asign2.g.resources
+c:\users\mark\documents\visual studio 2013\Projects\Asign2\Asign2\obj\Debug\Asign2.Properties.Resources.resources
+c:\users\mark\documents\visual studio 2013\Projects\Asign2\Asign2\obj\Debug\Asign2.csproj.GenerateResource.Cache
+c:\users\mark\documents\visual studio 2013\Projects\Asign2\Asign2\obj\Debug\Asign2.exe
+c:\users\mark\documents\visual studio 2013\Projects\Asign2\Asign2\obj\Debug\Asign2.pdb
+C:\Users\Mark\Desktop\Asign2\Asign2\bin\Debug\Asign2.exe.config
+C:\Users\Mark\Desktop\Asign2\Asign2\obj\Debug\Asign2.exe
+C:\Users\Mark\Desktop\Asign2\Asign2\obj\Debug\Asign2.pdb
+C:\Users\Mark\Desktop\Asign2\Asign2\bin\Debug\Asign2.exe
+C:\Users\Mark\Desktop\Asign2\Asign2\bin\Debug\Asign2.pdb
+C:\Users\Mark\Desktop\Asign2\Asign2\obj\Debug\Asign2.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Asign2\Asign2\obj\Debug\MainWindow.baml
+C:\Users\Mark\Desktop\Asign2\Asign2\obj\Debug\MainWindow.g.cs
+C:\Users\Mark\Desktop\Asign2\Asign2\obj\Debug\App.g.cs
+C:\Users\Mark\Desktop\Asign2\Asign2\obj\Debug\Asign2_MarkupCompile.cache
+C:\Users\Mark\Desktop\Asign2\Asign2\obj\Debug\Asign2.g.resources
+C:\Users\Mark\Desktop\Asign2\Asign2\obj\Debug\Asign2.Properties.Resources.resources
+C:\Users\Mark\Desktop\Asign2\Asign2\obj\Debug\Asign2.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\Asign2.exe.config
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\obj\Debug\Asign2.exe
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\obj\Debug\Asign2.pdb
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\obj\Debug\Asign2.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\obj\Debug\MainWindow.baml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\obj\Debug\MainWindow.g.cs
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\obj\Debug\App.g.cs
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\obj\Debug\Asign2_MarkupCompile.cache
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\obj\Debug\Asign2.g.resources
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\Asign2.exe
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\Asign2.pdb
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\obj\Debug\Asign2.Properties.Resources.resources
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\obj\Debug\Asign2.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\obj\Debug\Report.baml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\obj\Debug\Report.g.cs
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Themes.MetropolisLight.v15.1.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\MySql.Data.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Mvvm.v15.1.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Controls.v15.1.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Core.v15.1.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Mvvm.v15.1.xml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Controls.v15.1.xml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+P:\assign\Asign2\Asign2\bin\Debug\Asign2.exe.config
+P:\assign\Asign2\Asign2\obj\Debug\Asign2.exe
+P:\assign\Asign2\Asign2\obj\Debug\Asign2.pdb
+P:\assign\Asign2\Asign2\obj\Debug\Asign2.csprojResolveAssemblyReference.cache
+P:\assign\Asign2\Asign2\obj\Debug\MainWindow.baml
+P:\assign\Asign2\Asign2\obj\Debug\Report.baml
+P:\assign\Asign2\Asign2\obj\Debug\MainWindow.g.cs
+P:\assign\Asign2\Asign2\obj\Debug\Report.g.cs
+P:\assign\Asign2\Asign2\obj\Debug\App.g.cs
+P:\assign\Asign2\Asign2\obj\Debug\Asign2_MarkupCompile.cache
+P:\assign\Asign2\Asign2\obj\Debug\Asign2.g.resources
+P:\assign\Asign2\Asign2\obj\Debug\Asign2.Properties.Resources.resources
+P:\assign\Asign2\Asign2\obj\Debug\Asign2.csproj.GenerateResource.Cache
+P:\assign\Asign2\Asign2\bin\Debug\Asign2.exe
+P:\assign\Asign2\Asign2\bin\Debug\Asign2.pdb
+P:\assign\Asign2\Asign2\bin\Debug\DevExpress.Data.v15.1.xml
+P:\assign\Asign2\Asign2\bin\Debug\DevExpress.Mvvm.v15.1.xml
+P:\assign\Asign2\Asign2\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+P:\assign\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Controls.v15.1.xml
+P:\assign\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+P:\assign\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Printing.v15.1.xml
+P:\assign\Asign2\Asign2\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+P:\assign\Asign2\Asign2\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+P:\assign\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Controls.v15.1.resources.dll
+P:\assign\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+P:\assign\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\Asign2.exe.config
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\obj\Debug\Asign2.exe
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\obj\Debug\Asign2.pdb
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\Asign2.exe
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\Asign2.pdb
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\DevExpress.Mvvm.v15.1.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Controls.v15.1.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Core.v15.1.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Printing.v15.1.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Themes.MetropolisLight.v15.1.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\MySql.Data.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\DevExpress.Mvvm.v15.1.xml
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Controls.v15.1.xml
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Printing.v15.1.xml
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\obj\Debug\Asign2.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\obj\Debug\MainWindow.baml
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\obj\Debug\Report.baml
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\obj\Debug\MainWindow.g.cs
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\obj\Debug\Report.g.cs
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\obj\Debug\App.g.cs
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\obj\Debug\Asign2_MarkupCompile.cache
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\obj\Debug\Asign2.g.resources
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\obj\Debug\Asign2.Properties.Resources.resources
+C:\Users\Mark\Desktop\assign\Asign2\Asign2\obj\Debug\Asign2.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\Asign2.exe.config
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\obj\Debug\Asign2.exe
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\obj\Debug\Asign2.pdb
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\Asign2.exe
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\Asign2.pdb
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\DevExpress.Mvvm.v15.1.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Controls.v15.1.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Core.v15.1.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Themes.MetropolisLight.v15.1.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\MySql.Data.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\DevExpress.Mvvm.v15.1.xml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Controls.v15.1.xml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\obj\Debug\Asign2.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\obj\Debug\MainWindow.baml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\obj\Debug\Report.baml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\obj\Debug\MainWindow.g.cs
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\obj\Debug\Report.g.cs
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\obj\Debug\App.g.cs
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\obj\Debug\Asign2_MarkupCompile.cache
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\obj\Debug\Asign2.g.resources
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\obj\Debug\Asign2.Properties.Resources.resources
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\obj\Debug\Asign2.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\Asign2\obj\Debug\Asign2.exe.licenses
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Grid.v15.1.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Printing.v15.1.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Grid.v15.1.xml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.xml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Printing.v15.1.xml
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Mark\Desktop\506 a2\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Printing.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\Asign2.exe.config
+Z:\KIT506_svn\Asign2\Asign2\obj\Debug\Asign2.exe
+Z:\KIT506_svn\Asign2\Asign2\obj\Debug\Asign2.pdb
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\Asign2.exe
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\Asign2.pdb
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\DevExpress.Mvvm.v15.1.xml
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Controls.v15.1.xml
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Controls.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Controls.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Controls.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Controls.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Printing.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Printing.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Printing.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Printing.v15.1.resources.dll
+Z:\KIT506_svn\Asign2\Asign2\obj\Debug\Asign2.csprojResolveAssemblyReference.cache
+Z:\KIT506_svn\Asign2\Asign2\obj\Debug\MainWindow.baml
+Z:\KIT506_svn\Asign2\Asign2\obj\Debug\Report.baml
+Z:\KIT506_svn\Asign2\Asign2\obj\Debug\MainWindow.g.cs
+Z:\KIT506_svn\Asign2\Asign2\obj\Debug\Report.g.cs
+Z:\KIT506_svn\Asign2\Asign2\obj\Debug\App.g.cs
+Z:\KIT506_svn\Asign2\Asign2\obj\Debug\Asign2_MarkupCompile.cache
+Z:\KIT506_svn\Asign2\Asign2\obj\Debug\Asign2.g.resources
+Z:\KIT506_svn\Asign2\Asign2\obj\Debug\Asign2.Properties.Resources.resources
+Z:\KIT506_svn\Asign2\Asign2\obj\Debug\Asign2.csproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\Asign2.exe.config
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\obj\Debug\Asign2.exe
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\obj\Debug\Asign2.pdb
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\Asign2.exe
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\Asign2.pdb
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\DevExpress.Mvvm.v15.1.xml
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Controls.v15.1.xml
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\obj\Debug\Asign2.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\obj\Debug\MainWindow.baml
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\obj\Debug\Report.baml
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\obj\Debug\Report.g.cs
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\obj\Debug\App.g.cs
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\obj\Debug\Asign2_MarkupCompile.cache
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\obj\Debug\Asign2.g.resources
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\obj\Debug\Asign2.Properties.Resources.resources
+C:\Users\Sam\Desktop\k506_w0900_4\Asign2\Asign2\obj\Debug\Asign2.csproj.GenerateResource.Cache
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\Asign2.exe.config
+C:\Users\xchen16\Desktop\Asign2\Asign2\obj\Debug\Asign2.exe
+C:\Users\xchen16\Desktop\Asign2\Asign2\obj\Debug\Asign2.pdb
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\Asign2.exe
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\Asign2.pdb
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\DevExpress.Mvvm.v15.1.xml
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Controls.v15.1.xml
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\de\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\es\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\ja\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\bin\Debug\ru\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\xchen16\Desktop\Asign2\Asign2\obj\Debug\Asign2.csprojResolveAssemblyReference.cache
+C:\Users\xchen16\Desktop\Asign2\Asign2\obj\Debug\MainWindow.baml
+C:\Users\xchen16\Desktop\Asign2\Asign2\obj\Debug\Report.baml
+C:\Users\xchen16\Desktop\Asign2\Asign2\obj\Debug\MainWindow.g.cs
+C:\Users\xchen16\Desktop\Asign2\Asign2\obj\Debug\Report.g.cs
+C:\Users\xchen16\Desktop\Asign2\Asign2\obj\Debug\App.g.cs
+C:\Users\xchen16\Desktop\Asign2\Asign2\obj\Debug\Asign2_MarkupCompile.cache
+C:\Users\xchen16\Desktop\Asign2\Asign2\obj\Debug\Asign2.g.resources
+C:\Users\xchen16\Desktop\Asign2\Asign2\obj\Debug\Asign2.Properties.Resources.resources
+C:\Users\xchen16\Desktop\Asign2\Asign2\obj\Debug\Asign2.csproj.GenerateResource.Cache
